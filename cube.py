@@ -96,6 +96,5 @@ if __name__ == "__main__":
     size = int(input("Taille du carré latin: "))
     carre_latin = CarreLatin(size)
     cubes = carre_latin.get_cubes()
-    print(len(cubes))
     plotter = Plotter(cubes)
     plotter.show()

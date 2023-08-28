@@ -49,7 +49,7 @@ The script generates a 3D plot where each cube represents an element in the Lati
 
 This script provides a visual representation of a Latin square using cubes in 3D space. It's designed for educational purposes and demonstrates how to create 3D visualizations using `matplotlib`. Feel free to explore and modify the script for further experimentation.
 
-_Please ensure that you have the necessary dependencies installed before running the script. You can install the required dependencies using the following command:_
+**Please ensure that you have the necessary dependencies installed before running the script. You can install the required dependencies using the following command:**
 
 ```bash
 pip install matplotlib
